@@ -48,3 +48,6 @@ Packages used in this website are from the following:
 - GSAP (GreenSock Animation Platform) for animations.
 - Locomotive scroll for smooth scrolling
 - The "gray_world.png" image is a slight recolor of an icon (originally black) made by Freepik and it can be found [here](https://www.flaticon.com/free-icon/world_2115307?term=language&related_id=2115307)
+
+And a special thanks to my friend DevGipper for helping me with this by providing the 3D Model video and the general idea of having it animate it stuff as it scrolls.
+Without him and his help, I basically wouldn't be able to do any of this.
