@@ -2,7 +2,7 @@ In order to make the RUN.bat file actually work and run the site you have to mak
 Otherwise to open the file you'll have to:
 - Drag and drop the index.html file in the main folder into your browser
 OR
-- Open the site https://m7mdy9.github.io/AI
+- Open the site https://m7mdy9.github.io/AI-Site
 OR
 - Copy the path of the index.html file and put it in the address bar of your browser
 (e.g. D:\AI_Website\index.html)

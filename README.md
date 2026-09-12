@@ -4,7 +4,7 @@
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-## [Website link](https://m7mdy9.github.io/AI)
+## [Website link](https://m7mdy9.github.io/AI-Site)
 
 ## Description
 
@@ -29,8 +29,8 @@ This site features multilpe things that include:
 
 **FOR THE BEST EXPERIENCE VIEW ON A MID TIER PC IN 16:9 ASPECT RATIO WITH GOOD INTERNET SPEED**
 
-In order to use or view the site you will have to open it's [hosted version](https://m7mdy9.github.io/AI) on github.
-Or you can install it as a ZIP file from the [Repositry](https://github.com/m7mdy9/AI) and open it in your computer from a browser, but in order to have the best experience you should be opening the index.html in the main directory and then going from there to other pages on the website.
+In order to use or view the site you will have to open it's [hosted version](https://m7mdy9.github.io/AI-Site) on github.
+Or you can install it as a ZIP file from the [Repositry](https://github.com/m7mdy9/AI-Site) and open it in your computer from a browser, but in order to have the best experience you should be opening the index.html in the main directory and then going from there to other pages on the website.
 Alternatively after installing the code you can run the RUN.bat file to open the website.
 (THE FILES MUST BE LEFT UNTOUCH TO ENSURE THE BEST EXPERIENCE)
 
